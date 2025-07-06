@@ -1,1 +1,8 @@
 # HTML_Beginners
+
+Hyperlink
+In computing, a hyperlink, or simply a link, is a digital reference providing direct access to data by a user's clicking or tapping.[1] A hyperlink points to a whole document or to a specific element within a document. Hypertext is text with hyperlinks. The text that is linked from is known as anchor text. A software system that is used for viewing and creating hypertext is a hypertext system, and to create a hyperlink is to hyperlink (or simply to link). A user following hyperlinks is said to navigate or browse the hypertext.
+
+The document containing a hyperlink is known as its source document. For example, in content from Wikipedia or Google Search, many words and terms in the text are hyperlinked to definitions of those terms. Hyperlinks are often used to implement reference mechanisms such as tables of contents, footnotes, bibliographies, indexes, and glossaries.
+
+In some hypertext, hyperlinks can be bidirectional: they can be followed in two directions, so both ends act as anchors and as targets. More complex arrangements exist, such as many-to-many links.
